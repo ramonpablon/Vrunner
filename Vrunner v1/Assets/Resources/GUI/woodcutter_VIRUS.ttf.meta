@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: b8cb995d2778e474f96ca028b9c3fbbc
+timeCreated: 1523641208
+licenseType: Free
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: woodcutter VIRUS
+  fontNames:
+  - woodcutter VIRUS
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

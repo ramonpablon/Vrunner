@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Arteria
+  - DNA
+  - DNAStashes
+  - MonocitoFebre
+  - CheckPointFebre
+  - BulletTimeTrigger
+  - Fire
+  - Atract
+  - Gorduras
+  - Plaquetas
+  - EXU
+  - Luz do Tubo
+  - Obstacles
+  - CameraShakeShake
+  - PlayerMesh
+  - Freefall_DNA 2
+  - Freefall_DNA
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - "Art\xE9ria"
+  - "Obst\xE1culos"
+  - Inimigos
+  - sovs
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
